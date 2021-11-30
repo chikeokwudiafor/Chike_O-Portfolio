@@ -8,8 +8,11 @@ Credit Card Fraud Detection Project for my Artificial Intelligence class at Duqu
 * In all, we seek to understand how the various chosen algorithms will be meaningful in establishing weather there is a higher magnitude of credit card fraud or no fraud.
 *  We will use the selected Machine learning Algorithms to analyze and predict large data looking for patterns and anomaly.
 
+
 # [Project 2 : AirFrance-Internet-Marketing-Optimization](https://github.com/chikeokwudiafor/AirFrance-Internet-Marketing-Optimization-)
 # Overview
 * This is a project done in my Behavioral Analytics Class with a team of two.
 * Behavioral Analytics: Air France Internet Marketing campaign effectiveness using Python to analyze the factors that affect total Cost. We analyzed different metrics that could affect the campaign effectiveness. 
 * These were some of our observation, a detailed report can be found in the pdf on the github project.
+
+:[](https://github.com/chikeokwudiafor/Chike_O-Portfolio/blob/main/images/project%202.png)
