@@ -15,4 +15,4 @@ Credit Card Fraud Detection Project for my Artificial Intelligence class at Duqu
 * Behavioral Analytics: Air France Internet Marketing campaign effectiveness using Python to analyze the factors that affect total Cost. We analyzed different metrics that could affect the campaign effectiveness. 
 * These were some of our observation, a detailed report can be found in the pdf on the github project.
 
-:[](https://github.com/chikeokwudiafor/Chike_O-Portfolio/blob/main/images/project%202.png)
+:[](https://github.com/chikeokwudiafor/Chike_O-Portfolio/blob/main/images/project%202%20e.PNG)
