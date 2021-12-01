@@ -9,6 +9,7 @@ Credit Card Fraud Detection Project for my Artificial Intelligence class at Duqu
 *  We will use the selected Machine learning Algorithms to analyze and predict large data looking for patterns and anomaly.
 
 
+
 # [Project 2 : AirFrance-Internet-Marketing-Optimization](https://github.com/chikeokwudiafor/AirFrance-Internet-Marketing-Optimization-)
 # Overview
 * This is a project done in my Behavioral Analytics Class with a team of two.
