@@ -1,5 +1,6 @@
 # Chike_O-Portfolio
-My portfolio
+My portfolio[](https://github.com/chikeokwudiafor)
+
 # [Project 1:  Credit-Card-Fraud-Detection Project](https://github.com/chikeokwudiafor/Credit-Card-Fraud-Detection)
 Credit Card Fraud Detection Project for my Artificial Intelligence class at Duquesne University by Chike Okwudiafor, Eric Ato Brown, and Obehi Irekponor
 * This project is aimed at using the available machine learning algorithms and techniques to aid financial institutions and clients detect fraudulent credit card transactions. 
