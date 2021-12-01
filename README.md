@@ -1,5 +1,5 @@
-# Chike_O-Portfolio
-My portfolio[](https://github.com/chikeokwudiafor)
+# [Chike_O-Portfolio](https://github.com/chikeokwudiafor)
+My portfolio
 
 # [Project 1:  Credit-Card-Fraud-Detection Project](https://github.com/chikeokwudiafor/Credit-Card-Fraud-Detection)
 Credit Card Fraud Detection Project for my Artificial Intelligence class at Duquesne University by Chike Okwudiafor, Eric Ato Brown, and Obehi Irekponor
