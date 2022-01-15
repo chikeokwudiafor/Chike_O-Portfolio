@@ -18,3 +18,5 @@ Credit Card Fraud Detection Project for my Artificial Intelligence class at Duqu
 * These were some of our observation, a detailed report can be found in the pdf on the github project.
 
 :[](https://github.com/chikeokwudiafor/Chike_O-Portfolio/blob/main/images/project%202%20e.PNG)
+
+
